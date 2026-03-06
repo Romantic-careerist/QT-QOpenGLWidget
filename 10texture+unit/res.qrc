@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/shapes.frag</file>
+        <file>shaders/shapes.vert</file>
+        <file>resources/dedec41c5d2da800d4d6b46028a0becf.jpeg</file>
+        <file>resources/u=810829571,2690492918_fm=253_fmt=auto_app=138_f=JPEG.jpeg</file>
+        <file>resources/联想截图_20250927210934.png</file>
+    </qresource>
+</RCC>

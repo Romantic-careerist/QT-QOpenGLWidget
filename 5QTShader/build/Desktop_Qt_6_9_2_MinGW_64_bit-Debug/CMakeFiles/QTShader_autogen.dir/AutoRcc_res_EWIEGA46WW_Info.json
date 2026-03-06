@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "D:/soft/QTproject/OpenGL/5QTShader/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/QTShader_autogen",
+	"CMAKE_BINARY_DIR" : "D:/soft/QTproject/OpenGL/5QTShader/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/soft/QTproject/OpenGL/5QTShader/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/soft/QTproject/OpenGL/5QTShader",
+	"CMAKE_SOURCE_DIR" : "D:/soft/QTproject/OpenGL/5QTShader",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/soft/QTproject/OpenGL/5QTShader/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/QTShader_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/soft/QTproject/OpenGL/5QTShader/shaders/shapes.frag",
+		"D:/soft/QTproject/OpenGL/5QTShader/shaders/shapes.vert"
+	],
+	"LOCK_FILE" : "D:/soft/QTproject/OpenGL/5QTShader/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/QTShader_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "D:/soft/QT/6.9.2/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/soft/QTproject/OpenGL/5QTShader/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/QTShader_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/soft/QTproject/OpenGL/5QTShader/res.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
